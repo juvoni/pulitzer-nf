@@ -31,24 +31,24 @@
 
 ### 1980s
 - 1980: Gödel, Escher, Bach: an Eternal Golden Braid by *Douglas Hofstadter*
-The Madwoman in the Attic by *Sandra Gilbert and Susan Gubar*
-The Medusa and the Snail by *Lewis Thomas*
+- The Madwoman in the Attic by *Sandra Gilbert and Susan Gubar*
+- The Medusa and the Snail by *Lewis Thomas*
 - 1981: Fin-de-Siècle Vienna: Politics and Culture by *Carl E. Schorske*
 China Men by *Maxine Hong Kingston*
-Goodbye*, Darkness: A Memoir of the Pacific War by *William Manchester*
-Southerners: A Journalist's Odyssey by *Marshall Frady*
+- Goodbye*, Darkness: A Memoir of the Pacific War by *William Manchester*
+- Southerners: A Journalist's Odyssey by *Marshall Frady*
 - 1982: The Soul of a New Machine by *Tracy Kidder*
-Basin and Range by *John McPhee*
+- Basin and Range by *John McPhee*
 - Mrs. Harris: The Death of the Scarsdale Diet Doctor by *Diana Trilling*
 - 1983: Is There No Place on Earth for Me? by *Susan Sheehan*
-The Fate of the Earth by *Jonathan Schell*
-Terrorists and Novelists by *Diane Johnson*
+- The Fate of the Earth by *Jonathan Schell*
+- Terrorists and Novelists by *Diane Johnson*
 - 1984: The Social Transformation of American Medicine by *Paul Starr*
-Conversations With the Enemy by *Winston Groom and Duncan Spencer*
-Wild Justice by *Susan Jacoby*
-*- 1985: The Good War: An Oral History of World War Two by *Studs Terkel*
-Endless Enemies by *Jonathan Kwitny*
-Dawn to the West by *Donald Keene*
+- Conversations With the Enemy by *Winston Groom and Duncan Spencer*
+- Wild Justice by *Susan Jacoby*
+- 1985: The Good War: An Oral History of World War Two by *Studs Terkel*
+-Endless Enemies by *Jonathan Kwitny*
+- Dawn to the West by *Donald Keene*
 - 1986 (two winners): Common Ground: A Turbulent Decade in the Lives of Three American Families by *J. Anthony Lukas*
 - Move Your Shadow: South Africa, Black and White by *Joseph Lelyveld*
 - Habits and the Heart: Individualism and Commitment in American Life by *Robert Neelly Bellah*
@@ -74,7 +74,7 @@ Dawn to the West by *Donald Keene*
 - Broken Vessels by *Andre Dubus*
 - 1993: Lincoln at Gettysburg: The Words That Remade America by *Garry Wills*
 - Days of Obligation: An Argument with My Mexican Father by *Richard Rodriguez*
-Where the Buffalo Roam by *Anne Matthews*
+- Where the Buffalo Roam by *Anne Matthews*
 - A Chorus of Stones: The Private Life of War by *Susan Griffin*
 - 1994: Lenin's Tomb: The Last Days of the Soviet Empire by *David Remnick*
 - The Cultivation of Hatred: The Bourgeois Experience, Victoria to Freud by *Peter Gay*
