@@ -5,6 +5,9 @@
 
 > You can fork this repo and maintain your own list.
 
+Pulitzers Read: 0
+Pulitzers To-Go: 55
+
 ### 1960s
 - 1962: The Making of the President, 1960 by *Theodore White*
 - 1963: The Guns of August by *Barbara W. Tuchman*
