@@ -5,8 +5,9 @@
 
 > You can fork this repo and maintain your own list.
 
-Pulitzers Read: 0
-Pulitzers To-Go: 55
+Pulitzers Read: **0**
+
+Pulitzers To-Go: **55**
 
 ### 1960s
 - 1962: The Making of the President, 1960 by *Theodore White*
@@ -144,8 +145,8 @@ China Men by *Maxine Hong Kingston*
 - Behind the Beautiful Forevers: Life, Death and Hope in a Mumbai Undercity by *Katherine Boo*
 - The Forest Unseen: A Year's Watch in Nature by *David George Haskell*
 - 2014: Toms River: A Story of Science and Salvation by *Dan Fagin*
-- The Blood Telegram: Nixon, Kissinger and a Forgotten Genocide by *Gary J. *Bass
+- The Blood Telegram: Nixon, Kissinger and a Forgotten Genocide by *Gary J. Bass*
 - The Insurgents: David Petraeus and the Plot to Change the American Way of War by *Fred Kaplan*
 - 2015: The Sixth Extinction: An Unnatural History by *Elizabeth Kolbert[2]*
-No Good Men Among the Living by *Anand Gopal*
-- Age of Ambition: Chasing Fortune, Truth, and Faith in the New China by *Evan *Osnos
+- No Good Men Among the Living by *Anand Gopal*
+- Age of Ambition: Chasing Fortune, Truth, and Faith in the New China by *Evan Osnos*
